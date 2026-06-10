@@ -1,0 +1,44 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+*.lock
+
+# Android
+android/.gradle
+android/local.properties
+android/app/debug
+android/app/release
+android/app/.gradle
+
+# iOS
+ios/Pods/
+ios/Podfile.lock
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+
+# Web
+web/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+pubspec.lock
+
+# Generated files
+*.g.dart
